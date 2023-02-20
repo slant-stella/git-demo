@@ -15,3 +15,4 @@ hello lei! master test
 hello lei! hot-fix test
 金yy是傻子
 东方不败
+这必不能被gitee看见
